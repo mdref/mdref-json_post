@@ -1,0 +1,21 @@
+{
+    "name": "json_post",
+    "origin": "github.com/mdref/mdref-json_post",
+    "branch": "master",
+    "editUrl": "https://github.com/mdref/mdref-json_post/edit/master/%s.md",
+    "commentProvider": {
+        "giscus": {
+            "data": {
+                "repo": "mdref/mdref-json_post",
+                "category": "Comments",
+                "repo-id": "MDEwOlJlcG9zaXRvcnkzMTUzNjc4NQ==",
+                "category-id": "DIC_kwDOAeE2kc4CBHtP",
+                "mapping": "pathname",
+                "input-position": "bottom",
+                "reactions-enabled": false,
+                "theme": "light",
+                "lang": "en"
+            }
+        }
+    }
+}
